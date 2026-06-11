@@ -1,5 +1,5 @@
 const Navbar =()=>{
-    return (<nav className="w-full bg-gray-900 border-b border-gray-800 px-6 py-4 flex items-center justify-between">
+    return (<nav className="sticky top-0 z-50 w-full bg-gray-900 border-b border-gray-800 px-6 py-4 flex items-center justify-between">
         <h1 className="text-white font-bold text-xl">
             💰 Finance Dashboard
         </h1>
